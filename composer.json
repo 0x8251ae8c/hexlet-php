@@ -2,5 +2,7 @@
     "name": "0x8251ae8c/hexlet-php",
     "description": "My first php project on Hexlet",
     "type": "project",
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.81"
+    }
 }
