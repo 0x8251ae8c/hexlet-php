@@ -4,5 +4,10 @@
     "type": "project",
     "require": {
         "tightenco/collect": "^8.81"
+    },
+    "autoload" : {
+        "files": [
+            "src/Runner.php"
+        ]
     }
 }
